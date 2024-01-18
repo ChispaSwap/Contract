@@ -1,2 +1,2 @@
 # Contract
-Contract BAR ETH
+Contract
